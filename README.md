@@ -5,10 +5,10 @@ This repository contains my project-based Data Science Internship tasks complete
 ## Role
 Data Science Intern
 
-## Tasks
-1. Instagram Data Analysis
-2. Zomato Dataset Analysis
-3. Loan Approval Prediction
+## Tasks 
+1. Zomato Dataset Analysis
+2. Loan Approval Prediction
+3. Instagram Data Analysis
 
 ## Tools & Technologies
 - Python
