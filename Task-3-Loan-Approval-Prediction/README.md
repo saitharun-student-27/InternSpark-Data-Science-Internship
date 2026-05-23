@@ -1,4 +1,4 @@
-# Task 2: Loan Approval Prediction
+# Task 3: Loan Approval Prediction
 
 ## Objective
 To build a machine learning model that predicts loan approval status based on applicant details and financial information.
